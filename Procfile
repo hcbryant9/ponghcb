@@ -1,1 +1,1 @@
-web: gunicorn ping:app
+web: gunicorn pong:app
